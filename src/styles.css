@@ -74,12 +74,11 @@ body {
 
 .card__accordion-item {
   background-color: #fff;
-  border-bottom: 1px solid #e7e7e9;
   border: none;
+  border-bottom: 1px solid #e7e7e9;
   color: #4a4b5e;
   cursor: pointer;
   font-size: 13px;
-  outline: none;
   padding: 18px 0;
   text-align: left;
   transition: 0.4s;
